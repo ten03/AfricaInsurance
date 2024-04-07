@@ -6,6 +6,8 @@ All deliverables! <br>
     * Insurance industry in Africa.jpg
  * Original raw insurance data file
     * insurance_claims_raw.xlsx
- * Cleaned data 
+ * Cleaned data
+    * Africa Insurance - clean data.ipynb
+    * insurance_africa_cleaned.csv
  * Feature engineering notebook and resulting data .csv file 
  * Dashboard using your .csv 
