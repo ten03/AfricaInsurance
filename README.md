@@ -9,5 +9,7 @@ All deliverables! <br>
  * Cleaned data
     * Africa Insurance - clean data.ipynb
     * insurance_africa_cleaned.csv
- * Feature engineering notebook and resulting data .csv file 
+ * Feature engineering notebook and resulting data .csv file
+    * Africa Insurance - feature engineering.ipynb
+    * insurance_africa.csv
  * Dashboard using your .csv 
