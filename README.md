@@ -12,4 +12,6 @@ All deliverables! <br>
  * Feature engineering notebook and resulting data .csv file
     * Africa Insurance - feature engineering.ipynb
     * insurance_africa.csv
+    * insurance_africa.xlsx
+       * also included a .xlsx file for ease of importing into Power BI   
  * Dashboard using your .csv 
