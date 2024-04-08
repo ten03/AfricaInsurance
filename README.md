@@ -14,4 +14,7 @@ All deliverables! <br>
     * insurance_africa.csv
     * insurance_africa.xlsx
        * also included a .xlsx file for ease of importing into Power BI   
- * Dashboard using your .csv 
+ * Dashboard using your .csv
+    * Insurance dashboard.pbix
+    * Insurance dashboard.jpg
+       * screenshot of Power BI dashboard      
